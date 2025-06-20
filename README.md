@@ -45,5 +45,5 @@ This repo documents my focused learning path toward landing a BI/Data Analyst in
 
 ## 🙋‍♀️ About Me
 
-I’m a 2nd-year B.Tech CSE student (Big Data Analytics specialization), exploring BI & Data Analytics as a career path — learning from scratch, building projects, and sharing the journey.
+I’m a 3rd-year B.Tech CSE student (Big Data Analytics specialization), exploring BI & Data Analytics as a career path — learning from scratch, building projects, and sharing the journey.
 
